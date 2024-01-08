@@ -6,8 +6,8 @@
 			callback: function (doc) {
 				doc.save();
 			},
-			x: 50,
-			y: 50
+			x: 10,
+			y: 10
 		});
 	}
 </script>
